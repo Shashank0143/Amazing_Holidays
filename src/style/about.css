@@ -1,0 +1,14 @@
+.about__section{
+    text-align: center;
+}
+
+.about__section h1{
+    text-align: center;
+    color: var(--secondary-color);
+    padding-top: 5%;
+}
+.about__section p{
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 1.3rem;
+}
